@@ -1,0 +1,9 @@
+[package]
+name = "joycon-cemuhook"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+joycon = { git = "https://github.com/Yamakaky/joy", version = "0.1.0" }
+pad-motion = "0.1.6"
